@@ -1,0 +1,8 @@
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\bin\Debug\Reviewer.exe
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\bin\Debug\Reviewer.pdb
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\bin\Debug\Amazon.WebServices.MechanicalTurk.dll
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\bin\Debug\Amazon.WebServices.MechanicalTurk.Domain.dll
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\bin\Debug\Amazon.WebServices.MechanicalTurk.xml
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\obj\Debug\Reviewer.exe
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\obj\Debug\Reviewer.pdb

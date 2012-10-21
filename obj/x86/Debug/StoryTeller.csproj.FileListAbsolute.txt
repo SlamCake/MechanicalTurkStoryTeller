@@ -1,0 +1,1 @@
+C:\Users\kenyon\Documents\Visual Studio 2010\Projects\Libraries\dotnet-aws-mturk\Source\Samples\Reviewer\obj\x86\Debug\ResolveAssemblyReference.cache
